@@ -29,7 +29,7 @@ console.log(this.state);
     window.alert("enter valid username and password!");
   }
 } else {
-  window.alert("username and password fields are empty");
+  window.alert("username or password fields are empty");
 }
 }
 
