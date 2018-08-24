@@ -1,0 +1,29 @@
+.news-style{
+   
+    position: absolute;
+    margin-top: 50px;
+    margin-left: -130px;
+}
+.jumbotron{
+    margin-top: 17px;
+    padding-top: 10px;
+    
+}
+h3{
+    text-align: center;
+}
+.button-upload{
+padding-left: 17px;
+padding-right: 17px;
+
+}
+
+.panel {
+    width: 900px;
+    text-align: center;
+}
+.panel-footer{
+    padding: 15px;
+    background-color: silver;
+}
+
